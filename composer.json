@@ -1,0 +1,25 @@
+{
+	"name": "fuelphp/package",
+	"description": "FuelPHP Package",
+	"keywords": ["fuelphp", "package"],
+	"homepage": "https://github.com/fuelphp/package",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "FuelPHP Development Team",
+			"email": "team@fuelphp.com"
+		}
+	],
+	"require": {
+		"php": ">=5.4"
+	},
+	"require-dev": {
+		"codeception/codeception": "~2.0.0",
+		"codeception/mockery-module": "dev-master"
+	},
+	"autoload": {
+		"psr-4": {
+			"Fuel\\Package\\": "src/"
+		}
+	}
+}
