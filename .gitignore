@@ -19,5 +19,3 @@ index.php
 composer.phar
 tests/_log/*
 tests/_output/*
-
-tests/_output/*
