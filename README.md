@@ -1,4 +1,4 @@
-# FuelPHP Package
+# Fuel Package
 
 [![Build Status](https://travis-ci.org/fuelphp/package.png?branch=master)](https://travis-ci.org/fuelphp/package)
 [![Code Quality](https://scrutinizer-ci.com/g/fuelphp/package/badges/quality-score.png)](https://scrutinizer-ci.com/g/fuelphp/package/)
@@ -16,6 +16,17 @@ Via Composer
 $ composer require fuelphp/package
 ```
 
+
 ## Documentation
 
 See the [wiki]() for documentation.
+
+
+## Contributing
+
+Thank you for considering contribution to FuelPHP framework. Please see [CONTRIBUTING](https://github.com/fuelphp/fuelphp/blob/master/CONTRIBUTING.md) for details.
+
+
+## License
+
+The MIT License (MIT). Please see [License File](LICENSE) for more information.

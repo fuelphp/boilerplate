@@ -1,6 +1,6 @@
 {
 	"name": "fuelphp/package",
-	"description": "FuelPHP Package",
+	"description": "Fuel Package",
 	"keywords": ["fuelphp", "package"],
 	"homepage": "https://github.com/fuelphp/package",
 	"license": "MIT",
@@ -14,11 +14,16 @@
 		"php": ">=5.4"
 	},
 	"require-dev": {
-		"codeception/codeception": "~2.0.0"
+		"codeception/codeception": "~2.0"
 	},
 	"autoload": {
 		"psr-4": {
 			"Fuel\\Package\\": "src/"
+		}
+	},
+	"extra": {
+		"branch-alias": {
+			"dev-master": "2.0-dev"
 		}
 	}
 }

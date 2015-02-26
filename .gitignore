@@ -22,3 +22,5 @@ cache/
 *.bak
 Thumbs.db
 desktop.ini
+
+tests/_output/*
